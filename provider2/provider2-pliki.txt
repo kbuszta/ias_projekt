@@ -1,0 +1,6 @@
+Bikes.php <- provider3/app - Tworzy klasê
+routes.php <- provider3/app/Http - Tu tworzysz œcie¿kê dostêpu do tabeli
+BikesController.php <- provider3/app/Http/Controller - ? xD
+database.php <- provider3/config - ustalasz dostêp do bazy
+index.php <- provider3 - wyœwietla wynik z tabeli i daje dostêp HUBowi, chyba.
+provider3_bikees_seed - plik zak³adaj¹cy tabele z rekordami
