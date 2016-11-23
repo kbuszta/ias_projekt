@@ -1,6 +1,0 @@
-Bicycles.php <- provider2/app - Tworzy klasê
-routes.php <- provider2/app/Http - Tu tworzysz œcie¿kê dostêpu do tabeli
-BicyclesController.php <- provider2/app/Http/Controller - ? xD
-database.php <- provider2/config - ustalasz dostêp do bazy
-index.php <- provider2 - wyœwietla wynik z tabeli i daje dostêp HUBowi, chyba.
-provider2_bicycles_seed - plik zak³adaj¹cy tabele z rekordami
